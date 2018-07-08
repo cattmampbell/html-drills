@@ -1,6 +1,3 @@
-# html-drills
-Covalence Full-Stack Bootcamp, Lab: HTML Drills
-
 # Objectives:
 
 * Implement and practice the use of HTML elements and attributes.
